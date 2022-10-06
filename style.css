@@ -1,0 +1,32 @@
+.image_group_one{
+    width: 100px;
+    height:170px;
+    border-color:yellow;
+    border-radius: 30px;
+    border-width: 3px;
+    border-style: solid;
+}
+.big{
+    width:400px;
+    height:250px;
+    border-color:yellow;
+    border-radius: 30px;
+    border-width: 3px;
+    border-style: solid;
+}
+.gigantic{
+    width:300px;
+    height:490px;
+    border-color:yellow;
+    border-radius: 30px;
+    border-width: 3px;
+    border-style: solid;
+}
+#left_buttons{
+    float: left;
+    margin-left:80px;
+}
+#right_image{
+    float:right;
+    margin-right:85px;
+}
