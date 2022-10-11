@@ -10,3 +10,9 @@ function parts(){
 function partsheart(){
     location.href="hartheart.html"
 }
+function workheart(){
+    location.href="work.html"
+}
+function funfacts(){
+    location.href="funfact.html"
+}
